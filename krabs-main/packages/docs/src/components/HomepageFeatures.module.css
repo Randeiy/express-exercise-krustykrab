@@ -1,0 +1,27 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.multitenant-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-top: 5em;
+  padding-bottom: 2em;
+}
+
+.multitenant-image img {
+  max-width: 90vw;
+  width: 800px;
+}
+
+@media screen and (max-width: 720px) {
+  .multitenant-image img {
+    display: none;
+  }
+}
+
+.description {
+  text-align: center;
+  width: 100%;
+  padding-bottom: 5em;
+}
