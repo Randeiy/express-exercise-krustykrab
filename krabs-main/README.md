@@ -9,27 +9,13 @@
 
 **Krabs** is an enterprise-ready Express.js/Fastify middleware for serving **thousands** of different websites from a single Next.js instance.
 
-- [Sponsors](#sponsors)
 - [Installation](#installation)
 - [Things to know](#things-to-know)
 - [Installation](#installation)
 - [Getting started](#getting-started)
-  - [Examples](#examples)
+- [Examples](#examples)
 - [Documentation](#documentation)
-- [License](#license)
 
-# Sponsors
-
-<div align="center">
-  <a href="https://graphcms.com?utm_source=https://github.com/micheleriva/krabs">
-    <img src="/misc/sponsors/sponsor-graphcms.svg" alt="GraphCMS" target="_blank" width="250px" />
-  </a>
-
-  <br />
-  <a align="center" href="https://github.com/sponsors/micheleriva" target="_blank">
-    <b>Become a sponsor</b>
-  </a>
-</div>
 
 # Installation
 
@@ -274,11 +260,3 @@ going to http://dev.pizza.local.website-1.com/about and http://local.website-2.c
 # Documentation
 
 You can find the full documentation (with real code examples) [here](https://micheleriva.github.io/krabs/)!
-
-# License
-
-Krabs is _free as in freedom_ and licensed under the [**MIT** license](/LICENSE.md).
-
-<br />
-
-<img src="/misc/krabs-bottom.png" />
